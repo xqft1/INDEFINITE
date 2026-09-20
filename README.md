@@ -675,7 +675,7 @@ Potential benefits include:
 - no requirement to trust an LP custodian
 - continued LP fee generation
 - on-chain proof of locked positions
-- simple Etherscan verification
+- simple block explorer verification
 
 ---
 
@@ -750,7 +750,7 @@ Check:
 - fee recipient
 - fee percentage
 
-Ethereum is the ultimate source of truth.
+On-chain state on each supported network is the ultimate source of truth.
 
 ---
 
