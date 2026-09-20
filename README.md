@@ -21,12 +21,12 @@ Once an LP position is locked, the NFT and its underlying liquidity can never be
 ### INDEFINITE
 
 ```text
-0x54106486bb295f78f5fEAcd2E7B6d9f6Ba3b6b84
+0x9aCD7C52700a46dAC8c200871973d63eBfA2d4c8
 ```
 
 Etherscan:
 
-https://etherscan.io/address/0x54106486bb295f78f5feacd2e7b6d9f6ba3b6b84
+https://etherscan.io/address/0x9aCD7C52700a46dAC8c200871973d63eBfA2d4c8
 
 Uniswap v4 PositionManager:
 
