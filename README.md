@@ -639,13 +639,13 @@ Official deployments:
 ### Ethereum Mainnet
 
 ```text
-0x54106486bb295f78f5fEAcd2E7B6d9f6Ba3b6b84
+0x9aCD7C52700a46dAC8c200871973d63eBfA2d4c8
 ```
 
 ### Robinhood Chain
 
 ```text
-YOUR_ROBINHOOD_INDEFINITE_ADDRESS
+0xabA48A9102063d07212e3Bb8C44364555F65D7e5
 ```
 
 Always verify both the network and contract address before interacting with INDEFINITE.
