@@ -75,7 +75,7 @@ Uniswap v4 PoolManager:
 ### INDEFINITE
 
 ```text
-0xabA48A9102063d07212e3Bb8C44364555F65D7e5
+0xbA9BE3fd706E8D53D012b350FcC3DfA4c631BA9f
 ```
 
 ---
@@ -645,7 +645,7 @@ Official deployments:
 ### Robinhood Chain
 
 ```text
-0xabA48A9102063d07212e3Bb8C44364555F65D7e5
+0xbA9BE3fd706E8D53D012b350FcC3DfA4c631BA9f
 ```
 
 Always verify both the network and contract address before interacting with INDEFINITE.
@@ -811,7 +811,7 @@ On-chain state on each supported network is the ultimate source of truth.
 ### INDEFINITE
 
 ```text
-0xabA48A9102063d07212e3Bb8C44364555F65D7e5
+0xbA9BE3fd706E8D53D012b350FcC3DfA4c631BA9f
 ```
 
 ---
