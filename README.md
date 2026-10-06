@@ -912,3 +912,9 @@ Nothing in this repository constitutes financial, investment, legal, tax, or sec
 https://x.com/xqft7
 
 Built for transparent, verifiable and indefinite on-chain liquidity.
+
+# Developer / Project Wallet
+
+0x9a30Cf4527D2Cc80884405e16337149ab59e3d6E
+
+This is the personal/project wallet of xqft, used for onchain activity and development relating to Indefinite V4 on Robinhood Chain.
